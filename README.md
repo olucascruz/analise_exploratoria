@@ -37,3 +37,8 @@ Exploramos diversos modelos de regressão, como regressão linear, regressão po
 Utilizamos métricas como o erro médio absoluto (MAE) ou o erro quadrático médio (MSE) para avaliar o desempenho do modelo. Escolhemos a métrica mais adequada com base na interpretabilidade e sensibilidade a outliers.
 
 Este README fornece uma visão geral do projeto e dos processos envolvidos na análise exploratória e previsão de preços de apartamentos para aluguel. Para mais detalhes, consulte a documentação completa e os resultados da análise.
+
+Como executar:
+- python -m venv <nomedavenv>
+- pip install -r requirements.txt
+  Após isso pode executar o nootbook normalmente.
